@@ -1,0 +1,13 @@
+git clone http...
+
+git status
+
+git add "file name"
+git add .
+
+git commit -m "bericht" 
+
+git log
+
+git push
+git pull
